@@ -1,1 +1,41 @@
+# Auto detect text files and normalize line endings
+* text=auto
 
+# Explicitly set line endings
+*.cpp text eol=lf
+*.h   text eol=lf
+*.py  text eol=lf
+*.md  text eol=lf
+*.txt text eol=lf
+
+# Windows-specific files
+*.bat text eol=crlf
+*.ps1 text eol=crlf
+
+# Binary files (no diff / no merge)
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+
+# Design & cutting files (treated as binary)
+*.svg binary
+*.dxf binary
+*.plt binary
+
+# Archives
+*.zip binary
+*.tar binary
+*.gz  binary
+
+# Prevent Git from modifying line endings in these
+*.exe binary
+*.dll binary
+
+# Linguist settings (GitHub language stats)
+*.cpp linguist-language=C++
+*.py linguist-language=Python
+
+# Mark documentation
+docs/** linguist-documentation
