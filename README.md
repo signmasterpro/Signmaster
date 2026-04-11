@@ -2,7 +2,7 @@
 
 ## 📌 Overview
 
-This repository provides a comprehensive toolkit, utilities, and automation scripts designed to enhance workflows in SignMaster Pro and SignMaster Cut environments. It is aimed at developers, designers, and production specialists working in the sign-making and vinyl cutting industry who want to optimize efficiency, reduce manual work, and integrate custom solutions into their design-to-production pipeline.
+This repository provides a comprehensive toolkit, utilities, and automation scripts designed to enhance workflows in SignMaster Pro and SignMaster Cut environments. It is aimed at developers, designers, and production specialists working in the sign-making and vinyl cutting industry who want to optimize efficiency, reduce manual work, and integrate custom solutions into their SignMaster Pro and SignMaster Cut design-to-production pipeline.
 
 **SignMaster Pro** is widely used for professional sign design, vinyl cutting, and production management, while **SignMaster Cut** focuses on precise cutting operations and device control. This repository bridges the gap between design and execution by offering programmable tools and examples.
 
