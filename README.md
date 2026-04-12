@@ -7,7 +7,7 @@ This repository provides a comprehensive toolkit, utilities, and automation scri
 **SignMaster Pro** is widely used for professional sign design, vinyl cutting, and production management, while **SignMaster Cut** focuses on precise cutting operations and device control. This repository bridges the gap between design and execution by offering programmable tools and examples.
 
 ---
-
+<meta name="google-site-verification" content="tWYxxRlnjXPjkzsyoK90cTaOOrYRArMLwvnwmJjhAws" />
 ## 🎯 Purpose
 
 The main goal of this project is to:
